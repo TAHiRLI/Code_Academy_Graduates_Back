@@ -1,0 +1,14 @@
+./vs
+Student_portfolio_api/bin
+
+Student_portfolio_api/obj
+Student_portfolio_api/appsettings.json
+
+Business/obj
+Business/bin
+
+Core/bin
+Core/obj
+
+DataAccess/bin
+DataAccess/obj
